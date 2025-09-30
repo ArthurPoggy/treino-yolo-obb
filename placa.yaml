@@ -1,5 +1,5 @@
-path: C:\OCR-PLACAS\yolo-obb-train
-train: C:\OCR-PLACAS\yolo-obb-train\images\train
-val: C:\OCR-PLACAS\yolo-obb-train\images\val
+path: yolo-obb-train
+train: images\train
+val: images\val
 names:
   0: placa
