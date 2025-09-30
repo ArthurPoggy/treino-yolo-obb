@@ -1,5 +1,5 @@
 path: /home/labgpsi_1/treino-yolo-obb
-train: images\train
-val: images\val
+train: images/train
+val: images/val
 names:
   0: placa
